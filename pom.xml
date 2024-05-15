@@ -6,7 +6,7 @@
     <parent>
         <groupId>io.smallrye</groupId>
         <artifactId>smallrye-parent</artifactId>
-        <version>42</version>
+        <version>43</version>
     </parent>
 
     <groupId>io.smallrye.common</groupId>
@@ -21,14 +21,14 @@
         <!-- Plugins -->
         <version.bridger>1.6.Final</version.bridger>
         <version.module-info>2.1</version.module-info>
-        <version.sundrio>0.103.1</version.sundrio>
+        <version.sundrio>0.200.0</version.sundrio>
         <version.jandex-maven-plugin>1.2.3</version.jandex-maven-plugin>
 
         <!-- Dependencies -->
-        <version.asm>9.6</version.asm>
-        <version.graalvm>23.1.2</version.graalvm>
-        <version.vertx>4.5.2</version.vertx>
-        <version.maven-resolver>1.9.18</version.maven-resolver>
+        <version.asm>9.7</version.asm>
+        <version.graalvm>24.0.1</version.graalvm>
+        <version.vertx>4.5.7</version.vertx>
+        <version.maven-resolver>1.9.20</version.maven-resolver>
         <version.shrinkwrap>1.2.6</version.shrinkwrap>
         <version.org.jboss.logging>3.5.0.Final</version.org.jboss.logging>
 
